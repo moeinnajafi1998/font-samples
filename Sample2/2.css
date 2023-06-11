@@ -1,0 +1,15 @@
+@font-face {
+    font-family: vazir;
+    font-weight: 300;
+    src: url("fonts/Vazir-Light.eot");
+    src: url("fonts/Vazir-Light.woff") format("woff");
+    src: url("fonts/Vazir-Light.ttf") format("ttf");
+    src: url("fonts/Vazir-Light.woff2") format("woff2");
+}
+
+
+body {
+  font-family: vazir;
+  direction: rtl;
+} 
+
